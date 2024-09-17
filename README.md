@@ -8,8 +8,8 @@ I am a self-taught developer, I have many years of professional experience in an
 <br></br>
 </p>
 
-- 🔭 I’m currently working as an Android Engineer at Meesho
-- 🌱 I’m currently learning Mobile Dev Productivity, data science
+- 🔭 I’m currently on a break, working on some side projects.
+- 🌱 I’m currently learning software design and architecture.
 - 🤔 I’m looking for help with QUIC protocol
 - 💬 Ask me about Android Engineering, Design, Product Engineering
 - 📫 How to reach me: [Twitter](https://twitter.com/aditya_ladwa)
