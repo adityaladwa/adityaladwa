@@ -4,11 +4,11 @@
 **adityaladwa/adityaladwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align='justify'>
-I am a self-taught developer, I have many years of professional experience in android app development. I started in a fintech org <a href="https://www.epaylater.in/">ePayLater</a>, then moved on to build the ride-hailing product of a super-app in southeast asia, known as <a href="https://www.gojek.io/">gojek</a> and currently working as a platform engineer at <a href="https://www.meesho.io/tech">meesho</a>. I strive to produce pixel-perfect, high performing software. In my college days, I created an SMS app that allows user to create polls, I build an android app as a replacement of Computer Science Lab Manual that all students loved and found useful. 
+I am a self-taught developer, I have many years of professional experience in android app development, flutter and KMP. I started in a fintech org <a href="https://www.epaylater.in/">ePayLater</a>, then moved on to build the ride-hailing product within <a href="https://www.gojek.io/">gojek</a> and currently working as a platform engineer at <a href="https://www.meesho.io/tech">meesho</a>. I strive to produce pixel-perfect, high performing software. In my college days, I created an SMS app that allows user to create polls, I build an android app as a replacement of Computer Science Lab Manual that all students loved and found useful. 
 <br></br>
 </p>
 
-- 🔭 I’m currently on a break, working on some side projects.
+- 🔭 I’m currently on a break, working on some side projects using flutter, KMP
 - 🌱 I’m currently learning software design and architecture.
 - 🤔 I’m looking for help with QUIC protocol
 - 💬 Ask me about Android Engineering, Design, Product Engineering
